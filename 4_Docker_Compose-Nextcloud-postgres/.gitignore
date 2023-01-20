@@ -1,0 +1,11 @@
+*.DS_Store
+__pycache__
+core/venv
+*.tar
+*.swp
+*.log
+.venv
+.env
+
+#Ignoring the docs and docx files
+*.doc*
